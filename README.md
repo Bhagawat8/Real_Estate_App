@@ -37,9 +37,9 @@ Welcome to the **Real Estate Price Prediction and Recommendation App**! This pro
 
 ---
 
-## ** Run the Streamlit App**
+## Run the Streamlit App
 ```bash
-streamlit run pages/home.py
+streamlit run Home.py
 ```
 
 ---
@@ -82,7 +82,4 @@ streamlit run pages/home.py
 - Derived features for advanced insights (e.g., price per square foot, luxury categories).
 
 ---
-
-
-
 Thank you for exploring the Real Estate App! 🚀
