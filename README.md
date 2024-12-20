@@ -77,9 +77,11 @@ streamlit run Home.py
 
 ---
 
-## **Data Sources**
-- Real estate datasets (cleaned and preprocessed).
-- Derived features for advanced insights (e.g., price per square foot, luxury categories).
+## Data Resources
+- **Primary Dataset**: [Kaggle Dataset](<[KAGGLE_DATASET_LINK](https://www.kaggle.com/datasets/bhagawatkarhale/gurugram-flats-dataset-2024)>)  
+  *This dataset contains detailed real estate records.*  
+- **Cosine Similarity Matrix**: [Download cosine.pkl](<[GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1hmi5iPUoVgNIz3BAxk6OjGsITsALr28I/view?usp=sharing)>)  
+  *Used in the recommendation system to calculate property similarity.*
 
 ---
 Thank you for exploring the Real Estate App! 🚀
